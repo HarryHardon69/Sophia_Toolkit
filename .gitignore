@@ -1,0 +1,28 @@
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+
+# Test output
+.pytest_cache/
+htmlcov/
+.tox/
+
+# Temporary files
+*.swp
+*~
